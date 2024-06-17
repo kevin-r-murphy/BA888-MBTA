@@ -1,0 +1,87 @@
+service_id,service_description,service_schedule_name,service_schedule_type,service_schedule_typicality,rating_start_date,rating_end_date,rating_description
+BUS12024-hba14011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
+BUS12024-hbb14011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
+BUS12024-hbc14011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
+BUS12024-hbf14011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
+BUS12024-hbg14011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
+BUS12024-hbl14011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
+BUS12024-hbq14011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
+BUS12024-hbs14011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
+BUS12024-hbt14011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
+Boat-F1-Weekday-Fall-23,Weekday schedule,Weekday,Weekday,1,20231010,,Fall
+Boat-F4-Saturday-Fall-23,Saturday schedule,Saturday,Saturday,1,20231010,,Fall
+Boat-F4-Sunday-Fall-23,Sunday schedule,Sunday,Sunday,1,20231010,,Fall
+Boat-F4-Weekday-Fall-23,Weekday schedule,Weekday,Weekday,1,20231010,,Fall
+FALL 2023-NORTHSAT-Saturday-1-S6561ad1d,Saturday schedule,Saturday,Saturday,1,20231002,,Fall/Winter
+FALL 2023-NORTHSAT-Saturday-1-S7d8482ee,Saturday schedule,Saturday,Saturday,1,20231002,,Fall/Winter
+FALL 2023-NORTHSAT-Saturday-12,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20231002,,Fall/Winter
+FALL 2023-NORTHSAT-Saturday-12-S9f,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20231002,,Fall/Winter
+FALL 2023-NORTHSUN-Sunday-1,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
+FALL 2023-NORTHSUN-Sunday-1-S6561ad1d,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
+FALL 2023-NORTHSUN-Sunday-1-S7d8482ee,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
+FALL 2023-NORTHSUN-Sunday-12,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20231002,,Fall/Winter
+FALL 2023-NORTHSUN-Sunday-12-S9d378dcf,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20231002,,Fall/Winter
+FALL 2023-NORTHSUN-Sunday-13-S6561ad1d,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20231002,,Fall/Winter
+FALL 2023-NORTHSUN-Sunday-13-S7d8482ee,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20231002,,Fall/Winter
+FALL 2023-NORTHSUN-Sunday-13-S9d378dcf,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20231002,,Fall/Winter
+FALL 2023-NORTHWKD-Weekday-1,Weekday schedule,Weekday,Weekday,1,20231002,,Fall/Winter
+FALL 2023-NORTHWKD-Weekday-1-S6561ad1d,Weekday schedule,Weekday,Weekday,1,20231002,,Fall/Winter
+FALL 2023-NORTHWKD-Weekday-1-S7d8482ee,Weekday schedule,Weekday,Weekday,1,20231002,,Fall/Winter
+FALL 2023-NORTHWKD-Weekday-12-S9d378dcf,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20231002,,Fall/Winter
+FALL 2023-SOUTHSAT-Saturday-1,Saturday schedule,Saturday,Saturday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHSAT-Saturday-1-S85407dc6,Saturday schedule,Saturday,Saturday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHSAT-Saturday-1-S859962ef,Saturday schedule,Saturday,Saturday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHSAT-Saturday-1-Sb7371956,Saturday schedule,Saturday,Saturday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHSAT-Saturday-1-Sc9a3b080,Saturday schedule,Saturday,Saturday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHSAT-Saturday-1-Scbbf1ea5,Saturday schedule,Saturday,Saturday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHSAT-Saturday-2-Sb0e4ed14,Saturday schedule (reduced service),Saturday (reduced service),Saturday,5,20231002,,Fall/Winter
+FALL 2023-SOUTHSUN-Sunday-1,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHSUN-Sunday-1-S85407dc6,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHSUN-Sunday-1-S859962ef,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHSUN-Sunday-1-Sb7371956,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHSUN-Sunday-1-Sc9a3b080,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHSUN-Sunday-1-Scbbf1ea5,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHSUN-Sunday-13,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20231002,,Fall/Winter
+FALL 2023-SOUTHSUN-Sunday-13-S85407dc6,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20231002,,Fall/Winter
+FALL 2023-SOUTHSUN-Sunday-13-S859962ef,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20231002,,Fall/Winter
+FALL 2023-SOUTHSUN-Sunday-13-Sb0e4ed14,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20231002,,Fall/Winter
+FALL 2023-SOUTHSUN-Sunday-13-Sc9a3b080,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20231002,,Fall/Winter
+FALL 2023-SOUTHSUN-Sunday-13-Scbbf1ea5,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20231002,,Fall/Winter
+FALL 2023-SOUTHSUN-Sunday-2-Sb0e4ed14,Sunday schedule (reduced service),Sunday (reduced service),Sunday,5,20231002,,Fall/Winter
+FALL 2023-SOUTHWKD-Weekday-1,Weekday schedule,Weekday,Weekday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHWKD-Weekday-1-S85407dc6,Weekday schedule,Weekday,Weekday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHWKD-Weekday-1-S859962ef,Weekday schedule,Weekday,Weekday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHWKD-Weekday-1-Sb7371956,Weekday schedule,Weekday,Weekday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHWKD-Weekday-1-Sc9a3b080,Weekday schedule,Weekday,Weekday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHWKD-Weekday-1-Scbbf1ea5,Weekday schedule,Weekday,Weekday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHWKD-Weekday-14-S85407dc6,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20231002,,Fall/Winter
+FALL 2023-SOUTHWKD-Weekday-14-Scbbf1ea5,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20231002,,Fall/Winter
+FALL 2023-SOUTHWKD-Weekday-2-Sb0e4ed14,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20231002,,Fall/Winter
+LRV12024-hlb14011-Weekday-55,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
+LRV12024-hlb14016-Saturday-55,Saturday schedule,Saturday,Saturday,1,20231217,20240406,Winter
+LRV12024-hlb14017-Sunday-01,Sunday schedule,Sunday,Sunday,1,20231217,20240406,Winter
+LRV12024-hlm14011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
+LRV124-hlb14011-Wdy-55-4840c07e,Weekday schedule,Weekday,Weekday,4,20231217,20240406,Winter
+LRV124-hlb14011-Wdy-55-636b590a,Weekday schedule,Weekday,Weekday,4,20231217,20240406,Winter
+LRV124-hlb14016-Sa-55-4840c07e,Saturday schedule,Saturday,Saturday,4,20231217,20240406,Winter
+LRV124-hlb14016-Sa-55-636b590a,Saturday schedule,Saturday,Saturday,4,20231217,20240406,Winter
+LRV124-hlb14017-Su-01-4840c07e,Sunday schedule,Sunday,Sunday,4,20231217,20240406,Winter
+LRV124-hlb14017-Su-01-636b590a,Sunday schedule,Sunday,Sunday,4,20231217,20240406,Winter
+MartinLutherKingDay-PresidentsDay,Holiday (Saturday schedule),Holiday,Saturday,3,20231217,20240406,Winter
+NewYearsDay,Holiday (Sunday schedule),Holiday,Sunday,3,20231217,20240406,Winter
+NewYearsEve,New Year's Eve schedule,New Year's Eve,Sunday,2,20231217,20240406,Winter
+PRIV12024-hpa14011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
+PRIV12024-hpa14016-Saturday-01,Saturday schedule,Saturday,Saturday,1,20231217,20240406,Winter
+PRIV12024-hpj14011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
+PRIV12024-hpj14016-Saturday-01,Saturday schedule,Saturday,Saturday,1,20231217,20240406,Winter
+PRIV12024-hpj14017-Sunday-01,Sunday schedule,Sunday,Sunday,1,20231217,20240406,Winter
+PRIV12024-hpp14011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
+RTL12024-hmb14011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
+RTL12024-hmo14011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
+RTL12024-hms14011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
+RTL12024-hms14017-Sunday-01,Sunday schedule,Sunday,Sunday,1,20231217,20240406,Winter
+RTL12024-hms14pt7-Sunday-01,Holiday (Sunday schedule),Holiday,Sunday,3,20231217,20240406,Winter
+WinterSaturday,Saturday schedule,Saturday,Saturday,1,20231217,20240406,Winter
+WinterSunday,Sunday schedule,Sunday,Sunday,1,20231217,20240406,Winter
+WinterWeekday,Weekday schedule (no school),Weekday (no school),Weekday,1,20231217,20240406,Winter
+canonical,Canonical reference trips only,Canonical reference trips,Other,6,20220313,,Reference
